@@ -6,6 +6,10 @@ import Navigation from './components/Navigation';
 import Search from './components/Search';
 import Home from './components/Home';
 
+
+
+// this is app.js
+
 // ABIs
 import RealEstate from './abis/RealEstate.json'
 import Escrow from './abis/Escrow.json'
